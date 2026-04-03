@@ -49,13 +49,6 @@
             <scope>runtime</scope>
         </dependency>
 
-        <!-- H2 for in-memory test database -->
-        <dependency>
-            <groupId>com.h2database</groupId>
-            <artifactId>h2</artifactId>
-            <scope>test</scope>
-        </dependency>
-
         <!-- Flyway H2 support for test profile -->
         <dependency>
             <groupId>org.flywaydb</groupId>
