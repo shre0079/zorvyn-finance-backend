@@ -1,4 +1,13 @@
 package com.shreyash.zorvyn.finance_dashboard_backend.enums;
 
-public class TransactionCategory {
+public enum TransactionCategory {
+    SALARY,
+    FOOD,
+    RENT,
+    UTILITIES,
+    ENTERTAINMENT,
+    HEALTHCARE,
+    TRANSPORT,
+    INVESTMENT,
+    OTHER
 }
