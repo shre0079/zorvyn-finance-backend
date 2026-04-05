@@ -15,7 +15,7 @@ VALUES
         'a1b2c3d4-0000-0000-0000-000000000001',
         'admin@finance.com',
         -- BCrypt hash of "Admin@123"
-        '$2a$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi',
+        '$2a$10$wCrKabB3mF7vMdzVzpEhLOCMi1mg4suM8yBM1xDMKmBHVEtZ8OMse',
         'System Administrator',
         'ADMIN',
         TRUE,
@@ -26,7 +26,7 @@ VALUES
         'a1b2c3d4-0000-0000-0000-000000000002',
         'analyst@finance.com',
         -- BCrypt hash of "Analyst@123"
-        '$2a$10$5LD3rXbT.PgKLJO3UNhMY.E2FZ7qGHRX3g5k8B2pZvREkBkqT1GHa',
+        '$2a$10$Vbl3DQed/9QXL.HGTuxsS.ubYeEs9aiunPN/RZ4Dp1K/BwKAQpA4a',
         'Jane Analyst',
         'ANALYST',
         TRUE,
@@ -37,7 +37,7 @@ VALUES
         'a1b2c3d4-0000-0000-0000-000000000003',
         'viewer@finance.com',
         -- BCrypt hash of "Viewer@123"
-        '$2a$10$NKX3MeC5K1ZqQnVgYVBb3O0hBuT8JvGiZtXRwPkm7sLEYfpJ9yUeW',
+        '$2a$10$hLXaevDSMpdteQXhfbQrYuA4nUQfZV/ShyE9T0Kv/ez1JPwt798cS',
         'Bob Viewer',
         'VIEWER',
         TRUE,
