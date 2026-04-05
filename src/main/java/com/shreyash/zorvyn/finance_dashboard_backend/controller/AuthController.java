@@ -1,9 +1,9 @@
 package com.shreyash.zorvyn.finance_dashboard_backend.controller;
 
-import com.shreyash.zorvyn.finance_dashboard_backend.dtos.ApiResponse;
-import com.shreyash.zorvyn.finance_dashboard_backend.dtos.AuthResponse;
-import com.shreyash.zorvyn.finance_dashboard_backend.dtos.LoginRequest;
-import com.shreyash.zorvyn.finance_dashboard_backend.dtos.RegisterRequest;
+import com.shreyash.zorvyn.finance_dashboard_backend.dtos.response.ApiResponse;
+import com.shreyash.zorvyn.finance_dashboard_backend.dtos.response.AuthResponse;
+import com.shreyash.zorvyn.finance_dashboard_backend.dtos.request.LoginRequest;
+import com.shreyash.zorvyn.finance_dashboard_backend.dtos.request.RegisterRequest;
 import com.shreyash.zorvyn.finance_dashboard_backend.services.AuthService;
 import io.swagger.v3.oas.annotations.Operation;
 import io.swagger.v3.oas.annotations.security.SecurityRequirements;

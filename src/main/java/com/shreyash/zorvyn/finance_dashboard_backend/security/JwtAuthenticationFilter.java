@@ -1,9 +1,7 @@
 package com.shreyash.zorvyn.finance_dashboard_backend.security;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.shreyash.zorvyn.finance_dashboard_backend.dtos.ErrorResponse;
-import com.shreyash.zorvyn.finance_dashboard_backend.security.CustomUserDetailsService;
-import com.shreyash.zorvyn.finance_dashboard_backend.security.JwtTokenProvider;
+import com.shreyash.zorvyn.finance_dashboard_backend.dtos.response.ErrorResponse;
 import io.jsonwebtoken.ExpiredJwtException;
 import io.jsonwebtoken.JwtException;
 import jakarta.servlet.FilterChain;

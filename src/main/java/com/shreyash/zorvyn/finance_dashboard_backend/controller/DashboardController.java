@@ -1,6 +1,6 @@
 package com.shreyash.zorvyn.finance_dashboard_backend.controller;
 
-import com.shreyash.zorvyn.finance_dashboard_backend.dtos.*;
+import com.shreyash.zorvyn.finance_dashboard_backend.dtos.response.*;
 import com.shreyash.zorvyn.finance_dashboard_backend.entities.User;
 import com.shreyash.zorvyn.finance_dashboard_backend.enums.TransactionType;
 import com.shreyash.zorvyn.finance_dashboard_backend.enums.UserRole;

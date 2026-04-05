@@ -1,8 +1,8 @@
 package com.shreyash.zorvyn.finance_dashboard_backend.mapper;
 
-import com.shreyash.zorvyn.finance_dashboard_backend.dtos.CreateTransactionRequest;
-import com.shreyash.zorvyn.finance_dashboard_backend.dtos.TransactionResponse;
-import com.shreyash.zorvyn.finance_dashboard_backend.dtos.UpdateTransactionRequest;
+import com.shreyash.zorvyn.finance_dashboard_backend.dtos.request.CreateTransactionRequest;
+import com.shreyash.zorvyn.finance_dashboard_backend.dtos.response.TransactionResponse;
+import com.shreyash.zorvyn.finance_dashboard_backend.dtos.request.UpdateTransactionRequest;
 import com.shreyash.zorvyn.finance_dashboard_backend.entities.Transaction;
 import org.mapstruct.Mapper;
 import org.mapstruct.Mapping;

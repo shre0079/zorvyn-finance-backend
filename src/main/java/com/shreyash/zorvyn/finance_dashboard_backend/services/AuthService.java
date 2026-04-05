@@ -1,9 +1,9 @@
 package com.shreyash.zorvyn.finance_dashboard_backend.services;
 
-import com.shreyash.zorvyn.finance_dashboard_backend.dtos.AuthResponse;
-import com.shreyash.zorvyn.finance_dashboard_backend.dtos.LoginRequest;
-import com.shreyash.zorvyn.finance_dashboard_backend.dtos.RegisterRequest;
-import com.shreyash.zorvyn.finance_dashboard_backend.dtos.UserResponse;
+import com.shreyash.zorvyn.finance_dashboard_backend.dtos.response.AuthResponse;
+import com.shreyash.zorvyn.finance_dashboard_backend.dtos.request.LoginRequest;
+import com.shreyash.zorvyn.finance_dashboard_backend.dtos.request.RegisterRequest;
+import com.shreyash.zorvyn.finance_dashboard_backend.dtos.response.UserResponse;
 import com.shreyash.zorvyn.finance_dashboard_backend.entities.User;
 import com.shreyash.zorvyn.finance_dashboard_backend.enums.UserRole;
 import com.shreyash.zorvyn.finance_dashboard_backend.exceptions.DuplicateResourceException;

@@ -1,4 +1,4 @@
-package com.shreyash.zorvyn.finance_dashboard_backend.dtos;
+package com.shreyash.zorvyn.finance_dashboard_backend.dtos.request;
 
 import jakarta.validation.constraints.Email;
 import jakarta.validation.constraints.NotBlank;

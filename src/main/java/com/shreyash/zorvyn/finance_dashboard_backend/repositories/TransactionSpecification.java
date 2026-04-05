@@ -1,6 +1,6 @@
 package com.shreyash.zorvyn.finance_dashboard_backend.repositories;
 
-import com.shreyash.zorvyn.finance_dashboard_backend.dtos.TransactionFilterRequest;
+import com.shreyash.zorvyn.finance_dashboard_backend.dtos.request.TransactionFilterRequest;
 import com.shreyash.zorvyn.finance_dashboard_backend.entities.Transaction;
 import com.shreyash.zorvyn.finance_dashboard_backend.entities.User;
 import com.shreyash.zorvyn.finance_dashboard_backend.enums.UserRole;

@@ -1,6 +1,6 @@
 package com.shreyash.zorvyn.finance_dashboard_backend.exceptions;
 
-import com.shreyash.zorvyn.finance_dashboard_backend.dtos.ErrorResponse;
+import com.shreyash.zorvyn.finance_dashboard_backend.dtos.response.ErrorResponse;
 import io.jsonwebtoken.ExpiredJwtException;
 import io.jsonwebtoken.JwtException;
 import jakarta.servlet.http.HttpServletRequest;

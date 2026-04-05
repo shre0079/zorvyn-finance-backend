@@ -1,4 +1,4 @@
-package com.shreyash.zorvyn.finance_dashboard_backend.dtos;
+package com.shreyash.zorvyn.finance_dashboard_backend.dtos.response;
 
 import com.shreyash.zorvyn.finance_dashboard_backend.enums.TransactionCategory;
 import lombok.Builder;

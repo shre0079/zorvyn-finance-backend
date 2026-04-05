@@ -1,10 +1,10 @@
 package com.shreyash.zorvyn.finance_dashboard_backend.mapper;
 
 
-import com.shreyash.zorvyn.finance_dashboard_backend.dtos.CreateUserRequest;
-import com.shreyash.zorvyn.finance_dashboard_backend.dtos.RegisterRequest;
-import com.shreyash.zorvyn.finance_dashboard_backend.dtos.UpdateUserRequest;
-import com.shreyash.zorvyn.finance_dashboard_backend.dtos.UserResponse;
+import com.shreyash.zorvyn.finance_dashboard_backend.dtos.request.CreateUserRequest;
+import com.shreyash.zorvyn.finance_dashboard_backend.dtos.request.RegisterRequest;
+import com.shreyash.zorvyn.finance_dashboard_backend.dtos.request.UpdateUserRequest;
+import com.shreyash.zorvyn.finance_dashboard_backend.dtos.response.UserResponse;
 import com.shreyash.zorvyn.finance_dashboard_backend.entities.User;
 import org.mapstruct.*;
 

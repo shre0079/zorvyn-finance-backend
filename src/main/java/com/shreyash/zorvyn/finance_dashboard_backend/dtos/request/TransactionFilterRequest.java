@@ -1,4 +1,4 @@
-package com.shreyash.zorvyn.finance_dashboard_backend.dtos;
+package com.shreyash.zorvyn.finance_dashboard_backend.dtos.request;
 
 import com.shreyash.zorvyn.finance_dashboard_backend.enums.TransactionCategory;
 import com.shreyash.zorvyn.finance_dashboard_backend.enums.TransactionType;

@@ -1,6 +1,10 @@
 package com.shreyash.zorvyn.finance_dashboard_backend.controller;
 
-import com.shreyash.zorvyn.finance_dashboard_backend.dtos.*;
+import com.shreyash.zorvyn.finance_dashboard_backend.dtos.request.CreateUserRequest;
+import com.shreyash.zorvyn.finance_dashboard_backend.dtos.request.UpdateUserRequest;
+import com.shreyash.zorvyn.finance_dashboard_backend.dtos.response.ApiResponse;
+import com.shreyash.zorvyn.finance_dashboard_backend.dtos.response.PagedResponse;
+import com.shreyash.zorvyn.finance_dashboard_backend.dtos.response.UserResponse;
 import com.shreyash.zorvyn.finance_dashboard_backend.exceptions.AccessDeniedException;
 import com.shreyash.zorvyn.finance_dashboard_backend.services.UserService;
 import io.swagger.v3.oas.annotations.Operation;

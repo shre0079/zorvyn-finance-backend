@@ -1,6 +1,6 @@
 package com.shreyash.zorvyn.finance_dashboard_backend.utilities;
 
-import com.shreyash.zorvyn.finance_dashboard_backend.dtos.TransactionFilterRequest;
+import com.shreyash.zorvyn.finance_dashboard_backend.dtos.request.TransactionFilterRequest;
 import org.springframework.data.domain.PageRequest;
 import org.springframework.data.domain.Pageable;
 import org.springframework.data.domain.Sort;
