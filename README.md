@@ -40,7 +40,6 @@ The Finance Dashboard API allows users to track income and expenses, view financ
 | Mapping         | MapStruct 1.5.x                               |
 | Validation      | Jakarta Bean Validation 3.x                   |
 | API Docs        | SpringDoc OpenAPI 3 (Swagger UI)              |
-| Testing         | JUnit 5 + Mockito                             |
 | Code reduction  | Lombok                                        |
 
 ---
